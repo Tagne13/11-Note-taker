@@ -10,9 +10,13 @@ apiRouter.get('/api/notes', (req, res) => {
     res.json(notes);
 });
 
-// API POST
+// API POST request
 apiRouter.post('api/notes', (req, res) => {
+
+    // Submit title and text
     const {title, text} = req.body;
+
+    // If present, provide unique id
     if (title && text) {
         const newNote = {
             title,
@@ -20,16 +24,20 @@ apiRouter.post('api/notes', (req, res) => {
             id: uuidv4()
         };
 
+        // Push new note into notes
         notes.push(newNote);
 
+        // Convert into a string
         let noteString = JSON.stringify(notes, null, 3);
 
+        // Rewrite file to include all notes
         fs.writeFile(`./db/db.json`, noteString, (err) =>
         err
             ? console.error(err)
             : console.log('New note has been added!')
         );
 
+        // Indicate response
         const response = {
             status: 'success',
             body: newNote
