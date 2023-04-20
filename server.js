@@ -13,6 +13,7 @@ app.use(express.json());
 
 // Middleware
 app.use(express.static('public'));
+app.use(express.static('db'));
 app.use(apiRouter);
 app.use(htmlRouter);
 
