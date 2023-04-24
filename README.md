@@ -16,7 +16,7 @@
   
   ## [Description](#table-of-contents)
 
-  This application provides the user the ability to create and save notes, as well as delete once the saved item is no longer required. Back-end functionality was created to supplement front-end starter code. Technologies utilized include node.js, express, Heroku, and Insomnia.
+  This application provides the user the ability to create and save notes, as well as delete once the saved item is no longer required. Back-end functionality was created to supplement front-end starter code. Technologies utilized include node.js, express.js, Heroku, and Insomnia.
 
   ## [Installation](#table-of-contents)
 
@@ -24,16 +24,20 @@
 
   ## [Usage](#table-of-contents)
 
-  Access through the deployed Heroku link. Type a note entry into the designated areas. Click on the save icon to save your entry. Access and open the saved note entries by selecting from the list. Finally, you can click on the trash icon to delete an entry once no longer required. Watch the below video for a full demonstration. 
+  Access through the deployed [Heroku link](https://dashboard.heroku.com/apps/tagne13-note-taker). Type a note entry into the designated areas. Click on the save icon to save your entry. Access and open the saved note entries by selecting from the list. Finally, you can click on the trash icon to delete an entry once no longer required. Watch the below video for a full demonstration. 
+
+  [Video Demonstration]
+
+  Repository: https://github.com/Tagne13/11-Note-taker
+
+  ![Screenshot](images/Screenshot.png)
 
   ## [License](#table-of-contents)
 
   The application is covered under the following license:
     
-    [MIT](https://choosealicense.com/licenses/MIT)
+  [MIT](https://choosealicense.com/licenses/MIT)
     
-    
-
   ## [Contributing](#table-of-contents)
 
   Starter code was provided by Xander Rapstine (Xandromus).
