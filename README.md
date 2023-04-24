@@ -40,7 +40,7 @@
     
   ## [Contributing](#table-of-contents)
 
-  Starter code was provided by Xander Rapstine (Xandromus), John McCambridge (nol166), and George Yoo (Georgeyoo).
+  Starter code was provided by Xander Rapstine (Xandromus), John McCambridge (nol166), and George Yoo (Georgeyoo). Assistance received from Geraldo Gonzalez with debugging of apiRoutes file and deployment on Heroku.
 
   https://github.com/coding-boot-camp/miniature-eureka
 
