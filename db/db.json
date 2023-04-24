@@ -1,6 +1,41 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+   {
+      "title": "Test Title",
+      "text": "Test text"
+   },
+   {
+      "title": "test",
+      "text": "test text",
+      "id": "8dadf2fd-1ada-45ee-a25c-3d773c5d0112"
+   },
+   {
+      "title": "Test",
+      "text": "123456\n",
+      "id": "81b28ef2-674b-42d5-90e7-847edc17d426"
+   },
+   {
+      "title": "New note",
+      "text": "testesfsa",
+      "id": "e185d46b-1e6e-46e7-8461-8256bb72478d"
+   },
+   {
+      "title": "Newest Note",
+      "text": "123",
+      "id": "bae1f57a-fce7-4570-ae9c-d19566a40b08"
+   },
+   {
+      "title": "Test Number 2",
+      "text": "Checking for errors",
+      "id": "733c58ce-25b3-4ce0-b6ca-b4345fb52046"
+   },
+   {
+      "title": "asdfsdf",
+      "text": "asdfdsafsdf",
+      "id": "ed35e3a5-9fcb-4f22-861f-af053d8706a1"
+   },
+   {
+      "title": "monday ",
+      "text": "run test",
+      "id": "121188b4-cb46-421a-90ce-0a0e0f574a86"
+   }
 ]
