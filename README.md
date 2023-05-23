@@ -24,7 +24,7 @@
 
   ## [Usage](#table-of-contents)
 
-  Access through the deployed [Heroku link](https://dashboard.heroku.com/apps/tagne13-note-taker). Type a note entry into the designated areas. Click on the save icon to save your entry. Access and open the saved note entries by selecting from the list. Finally, you can click on the trash icon to delete an entry once no longer required. Watch the below video for a full demonstration. 
+  Access through the deployed [Heroku link](https://tagne13-note-taker.herokuapp.com/). Type a note entry into the designated areas. Click on the save icon to save your entry. Access and open the saved note entries by selecting from the list. Finally, you can click on the trash icon to delete an entry once no longer required. Watch the below video for a full demonstration. 
 
   [Video Demonstration](https://drive.google.com/file/d/1NZ9pcge4rocDMYgDXvw01NORstp4ox_-/view)
 
